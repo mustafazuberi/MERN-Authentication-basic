@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bcrypt-inzi": "^1.0.7",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.4"
+  },
+  "name": "mongo-db-class-1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
